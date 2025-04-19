@@ -61,7 +61,7 @@
             "no_scores":"`{username}` has no best scores on **{server}** ({mode})",
             "no_scores_search": "or no scores found for keyword(s) `{search}`",
             "no_scores_mods": "or no scores found with mods `{mods}`",
-            "greater_than": "`{username}` has **{scores}** score(s) greater than {pp}pp.",
+            "greater_than": "`{username}` has **{scores}** score(s) worth more than {pp}pp.",
             "score_set": "Score Set",
             "search": "Search: `{search}` (found **{scores}** score(s))",
             "sort": "Sort: `{sort}`",
