@@ -49,7 +49,7 @@
             "no_scores": "`{username}`は**{server}** ({mode})で最近のスコアがありません。",
             "no_best_scores": "`{username}`は**{server}** ({mode})で最近のベストスコアがありません。",
             "beatmap_not_found": "ビートマップが見つかりません。\n削除された可能性があります。",
-            "footer": "試行回数 #{tries} • {server}で • スコア {score}/{total}"
+            "footer": "試行回数 #{tries} • {server}で • スコア {score}/{total} • {status}"
         },
         "top": {
             "title": "{username}のトップ{mode}プレイ",

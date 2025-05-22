@@ -49,7 +49,7 @@
             "no_scores": "`{username}` heeft geen recente scores op **{server}** ({mode}).",
             "no_best_scores": "`{username}` heeft geen recente topscores op **{server}** ({mode}).",
             "beatmap_not_found": "Beatmap niet gevonden.\nIs het misschien verwijderd?",
-            "footer": "Poging #{tries} • Op {server} • Score {score}/{total}"
+            "footer": "Poging #{tries} • Op {server} • Score {score}/{total} • {status}"
         },
         "top": {
             "title": "Top {mode} plays voor {username}",

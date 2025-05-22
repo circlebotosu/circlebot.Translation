@@ -49,7 +49,7 @@
             "no_scores": "`{username}` не имеет недавних скоров на **{server}** ({mode}).",
             "no_best_scores": "`{username}` не имеет недавних лучших скоров на **{server}** ({mode}).",
             "beatmap_not_found": "Карта не была найдена.\nВозможно она была удалена?",
-            "footer": "Попытка #{tries} • На {server} • Скор {score}/{total}"
+            "footer": "Попытка #{tries} • На {server} • Скор {score}/{total} • {status}"
         },
         "top": {
             "title": "Топ {mode} скоры для {username}",

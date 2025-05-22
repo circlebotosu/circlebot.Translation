@@ -54,7 +54,7 @@
             "no_scores": "`{username}` has no recent scores on **{server}** ({mode}).",
             "no_best_scores": "`{username}` has no recent best scores on **{server}** ({mode}).",
             "beatmap_not_found": "Beatmap not found.\nMaybe it was deleted?",
-            "footer": "Try #{tries} • On {server} • Score {score}/{total}"
+            "footer": "Try #{tries} • On {server} • Score {score}/{total} • {status}"
         },
         "top": {
             "title": "Top {mode} plays for {username}",
@@ -67,6 +67,10 @@
             "sort": "Sort: `{sort}`",
             "mods": "Mods: `{mods}`",
             "mods_exact": "Exact Mods: `{mods}`"
+        },
+        "pinned": {
+            "title": "Pinned {mode} plays for {username}",
+            "no_scores":"`{username}` has no pinned scores on **{server}** ({mode})"
         },
         "compare": {
             "title": "All {mode} plays for {username} on {beatmap}",
