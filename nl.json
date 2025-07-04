@@ -29,12 +29,12 @@
             "server_not_found": "Server `{server}` niet gevonden.",
             "server_success": ":white_check_mark: **{discord_name}, jouw standaard osu! server is nu `{server}`**.",
             "configure_mode": "Configure: Standaard osu! Mode",
-            "invalid_mode": "Invalid mode `{mode}`. (0 - osu!std, 1 - osu!taiko, 2 - osu!catch, 3 - osu!mania)",
+            "invalid_mode": "Ongeldige mode `{mode}`. (0 - osu!std, 1 - osu!taiko, 2 - osu!catch, 3 - osu!mania)",
             "mode_success": ":white_check_mark: **{discord_name}, jouw standaard osu! mode is nu `{mode}`**."
         },
         "profile": {
-            "title": "{username}'s {mode} profile",
-            "performance_tab": "performance",
+            "title": "{username}'s {mode} profiel",
+            "performance_tab": "prestaties",
             "performance": "pp: **{pp}**",
             "accuracy": "nauwkeurigheid: **{accuracy}%**",
             "global_rank": "globale rang {rank}",
@@ -65,7 +65,7 @@
         },
         "compare": {
             "title": "Alle {mode} plays voor {username} op {beatmap}",
-            "no_scores": "`{username}` heeft geen scores **{server}** voor {beatmap}.",
+            "no_scores": "`{username}` heeft geen scores op **{server}** voor {beatmap}.",
             "score": "Score"
         },
         "simulate": {
@@ -103,7 +103,7 @@
             "title": "Wat als {username} {count} {pp}pp play(s) haalt op {server}?",
             "single_info": "Èèn score van `{pp}pp` (`{pp_weighted}pp` weighted) voor {username}",
             "multi_info": "{count} `{pp}pp` scores for {username}",
-            "waste_of_time": " zou geen topscore zijn en zou hun tijd meestwaarschijnlijk verspillen",
+            "waste_of_time": " zou geen topscore zijn en zou hun tijd hoogstwaarschijnlijk verspillen",
             "single_details": " zou hun #{score} topscore zijn",
             "pp_gain_single": " zou hun totale pp verhogen naar {pp}pp (+{pp_gain}pp).",
             "pp_gain_multi": " zou hun totale pp verhogen naar {pp}pp (+{pp_gain}pp)."
